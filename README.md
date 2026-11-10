@@ -94,7 +94,7 @@ exact visibility on a 1-mm grid along the path, the diffuse-rain energy envelope
 point scatterers with their visibility, and the band reverberation times of the house. Moving FOA recordings and
 their true time-varying responses are rendered from it at any speed, excitation, and noise level.
 
-Download: Zenodo, DOI ZENODO_DOI (about ZENODO_SIZE GB). Unpack it and set `PWTITP_HOUSES` to the folder:
+Download: Zenodo, DOI ZENODO_DOI (about 5.5 GB). Unpack it and set `PWTITP_HOUSES` to the folder:
 
 ```
 houses/<house id>.npz    one file per house; key 's<i>/<field>' for scene (trajectory) i
