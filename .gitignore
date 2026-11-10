@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+outputs/
+data/trajectoRIR/
+data/LibriSpeech/
+data/speech_pool.npy
